@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "928162082243",
+    "project_id": "quizz-flutter-1e084",
+    "storage_bucket": "quizz-flutter-1e084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928162082243:android:a6d72f767b256d4ca42176",
+        "android_client_info": {
+          "package_name": "io.shiro.fireshit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928162082243-8fdu2gjnu399i5nhuoo8259ink0l06jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDULnfwMah581bXR4nNE-xmkqgqg1iq3pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928162082243-8fdu2gjnu399i5nhuoo8259ink0l06jk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928162082243-lularjnh28uv3b8dd19gffa3t27fbeo3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.shiro.quizz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928162082243:android:17f3693a3ca92816a42176",
+        "android_client_info": {
+          "package_name": "io.shiro.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928162082243-0l0q4aoa1dv3iojamnp81cuvfdmvulo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.shiro.quiz",
+            "certificate_hash": "891d7ee87e449f2f846aeda05e297f256026b6dd"
+          }
+        },
+        {
+          "client_id": "928162082243-8fdu2gjnu399i5nhuoo8259ink0l06jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDULnfwMah581bXR4nNE-xmkqgqg1iq3pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928162082243-8fdu2gjnu399i5nhuoo8259ink0l06jk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928162082243-lularjnh28uv3b8dd19gffa3t27fbeo3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.shiro.quizz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
