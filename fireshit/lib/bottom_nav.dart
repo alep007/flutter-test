@@ -9,7 +9,7 @@ class BottomNavBar extends StatelessWidget {
     return BottomNavigationBar(
       items: const [
         BottomNavigationBarItem(
-            icon: Icon(FontAwesomeIcons.userDoctor, size: 20), label: 'About'),
+            icon: Icon(FontAwesomeIcons.userNinja, size: 20), label: 'About'),
         BottomNavigationBarItem(
             icon: Icon(FontAwesomeIcons.bolt, size: 20), label: 'Topics'),
         BottomNavigationBarItem(
